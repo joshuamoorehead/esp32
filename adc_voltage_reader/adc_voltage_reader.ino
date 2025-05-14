@@ -1,3 +1,4 @@
+// Copyright 2025 Joshua Moorehead
 #define ANALOG_PIN 34
 #define DELAY_TIME 500
 #define NUM_SEGMENTS 16  //Divide into 16 segments
