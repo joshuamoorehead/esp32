@@ -1,4 +1,4 @@
-//Joshua Moorehead
+//Copyright 2025 Joshua Moorehead
 #include <math.h>
 #include <stdint.h>
 
